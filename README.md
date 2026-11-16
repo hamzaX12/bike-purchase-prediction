@@ -210,10 +210,10 @@ A 200-row test set gives an accuracy standard error of about 3 points, so these 
 
 | Model | Accuracy | Precision | Recall | F1 | ROC-AUC |
 |---|---|---|---|---|---|
-| Baseline (majority class) | — | — | — | — | — |
-| Logistic Regression | — | — | — | — | — |
-| Random Forest (tuned) | — | — | — | — | — |
-| XGBoost (tuned) | — | — | — | — | — |
+| Baseline (majority class) | 0.520 | 0.000 | 0.000 | 0.000 | 0.500 |
+| Logistic Regression | 0.620 | 0.616 | 0.552 | 0.582 | 0.690 |
+| Random Forest (tuned) | 0.675 | 0.682 | 0.604 | 0.641 | 0.746 |
+| XGBoost (tuned) | 0.705 | 0.703 | 0.667 | 0.684 | 0.752 |
 
 ### Figures
 

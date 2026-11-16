@@ -309,7 +309,8 @@ The raw (readable) labels are expected: the pipeline handles imputation and enco
 
 ## Author
 
-**Hamza**: Computer Science student, data science & analytics.
+**Hamza ben allou**: Computer Science student, data science & analytics. 
+
 
 [GitHub](https://github.com/hamzaX12) • [LinkedIn](https://www.linkedin.com/in/hamza-ben-allou-48ab31236)
 
